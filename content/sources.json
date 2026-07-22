@@ -1,0 +1,50 @@
+{
+  "sources": [
+    {
+      "url": "https://itaycode.com/",
+      "title": "Itay Haephrati — itaycode.com",
+      "type": "homepage"
+    },
+    {
+      "url": "https://itaycode.com/work",
+      "title": "Work — itaycode.com",
+      "type": "work-index"
+    },
+    {
+      "url": "https://itaycode.com/work/tactical-troop",
+      "title": "Tactical Troop — itaycode.com",
+      "type": "project"
+    },
+    {
+      "url": "https://itaycode.com/work/mk-architects",
+      "title": "MK Architects — itaycode.com",
+      "type": "project"
+    },
+    {
+      "url": "https://itaycode.com/work/tema-connect",
+      "title": "TEMA Connect — itaycode.com",
+      "type": "project"
+    },
+    {
+      "url": "https://itaycode.com/work/coinmore",
+      "title": "Coinmore — itaycode.com",
+      "type": "project"
+    },
+    {
+      "url": "https://itaycode.com/work/the-mindset",
+      "title": "The Mindset — itaycode.com",
+      "type": "project"
+    },
+    {
+      "url": "https://itaycode.com/contact",
+      "title": "Contact — itaycode.com",
+      "type": "contact"
+    },
+    {
+      "url": "https://www.linkedin.com/in/itayhaephrati/",
+      "title": "Itay Haephrati — LinkedIn",
+      "type": "linkedin"
+    }
+  ],
+  "lastSynced": "2026-07-22T13:49:42.894Z"
+}
