@@ -58,6 +58,26 @@ export function ContactSection({ hasCv }: { hasCv: boolean }) {
             </a>
           </li>
           <li>
+            <a
+              href={siteConfig.github}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 transition-colors hover:text-mute"
+            >
+              GitHub <ArrowUpRight size={11} aria-hidden />
+            </a>
+          </li>
+          <li>
+            <a
+              href={siteConfig.codepen}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 transition-colors hover:text-mute"
+            >
+              CodePen <ArrowUpRight size={11} aria-hidden />
+            </a>
+          </li>
+          <li>
             <a href={`mailto:${siteConfig.email}`} className="transition-colors hover:text-mute">
               {siteConfig.email}
             </a>

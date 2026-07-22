@@ -180,7 +180,9 @@ export function suggestFollowUps(context: RetrievedContext, mode: "question" | "
 /** Related project cards, chosen by overlap between the question/context and project tags. */
 export function relatedProjects(question: string, context: RetrievedContext): string[] {
   const terms = new Set(tokenize(question));
-  const projectSections = loadKnowledge().filter((s) => s.tags.includes("project"));
+  const projectSections = loadKnowledge().filter(
+    (s) => s.tags.includes("project") && !s.tags.includes("generated"),
+  );
   const slugs = new Map<string, number>();
   for (const s of projectSections) {
     const slug = s.id.split("::")[0];

@@ -3,7 +3,7 @@ title: "Tactical Troop - Palmer® - Minimal Portfolio & Agency"
 source: https://itaycode.com/work/tactical-troop
 sourceTitle: "Tactical Troop - Palmer® - Minimal Portfolio & Agency"
 tags: [generated, project]
-syncedAt: 2026-07-22T13:49:39.234Z
+syncedAt: 2026-07-22T14:11:27.149Z
 ---
 - Tactical Troop /
 

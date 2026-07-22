@@ -21,4 +21,4 @@ Most frontend developers implement designs; most designers hand off mockups. Ita
 
 ## Availability and Working Style
 
-Itay is available for remote work and has an office in Tel Mond, Israel. He has years of verified remote collaboration with teams in Sweden (Image Systems), New York (LivePerson), and China (Coinmore client). He handles both design and development, and collaborates with existing teams and codebases. His stated process emphasis: clarify project scope before touching code, design, or budget.
+Itay is currently open to new work (per his 2026 CV: independent, worldwide/remote). He is available for remote work and has an office in Tel Mond, Israel. He has years of verified remote collaboration with teams in Sweden (Image Systems), New York (LivePerson), and China (Coinmore client). He handles both design and development, and collaborates with existing teams and codebases. His stated process emphasis: clarify project scope before touching code, design, or budget.

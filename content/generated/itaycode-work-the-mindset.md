@@ -3,7 +3,7 @@ title: "The Mindset - Palmer® - Minimal Portfolio & Agency"
 source: https://itaycode.com/work/the-mindset
 sourceTitle: "The Mindset - Palmer® - Minimal Portfolio & Agency"
 tags: [generated, project]
-syncedAt: 2026-07-22T13:49:41.932Z
+syncedAt: 2026-07-22T14:11:29.716Z
 ---
 - The Mindset /
 

@@ -3,7 +3,7 @@ title: "MK Architects - Palmer® - Minimal Portfolio & Agency"
 source: https://itaycode.com/work/mk-architects
 sourceTitle: "MK Architects - Palmer® - Minimal Portfolio & Agency"
 tags: [generated, project]
-syncedAt: 2026-07-22T13:49:39.786Z
+syncedAt: 2026-07-22T14:11:27.777Z
 ---
 - MK Architects /
 

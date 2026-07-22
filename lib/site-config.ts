@@ -8,6 +8,9 @@ export const siteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://ask-itay.vercel.app",
   portfolio: "https://itaycode.com/",
   linkedin: "https://www.linkedin.com/in/itayhaephrati/",
+  github: "https://github.com/itay1313",
+  x: "https://x.com/itaycode",
+  codepen: "https://codepen.io/itayko",
   email: "Itaycode@gmail.com",
   // Served from /public. Drop a PDF in content/cv and run `npm run sync-profile`
   // to copy it here; until then the header falls back to LinkedIn.

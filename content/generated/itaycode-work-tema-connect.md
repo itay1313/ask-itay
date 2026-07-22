@@ -3,7 +3,7 @@ title: "TEMA CONNECT - Palmer® - Minimal Portfolio & Agency"
 source: https://itaycode.com/work/tema-connect
 sourceTitle: "TEMA CONNECT - Palmer® - Minimal Portfolio & Agency"
 tags: [generated, project]
-syncedAt: 2026-07-22T13:49:40.353Z
+syncedAt: 2026-07-22T14:11:28.438Z
 ---
 - Image Systems /
 
